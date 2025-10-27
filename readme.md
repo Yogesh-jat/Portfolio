@@ -1,5 +1,5 @@
-![Logo](cp.png)
-
+## 📸 Preview
+![Portfolio Preview](images/cp.png)
 
 # 💻 Yogesh Portfolio Website  
 
@@ -64,3 +64,4 @@ Follow these steps to run and customize this portfolio on your own system 👇
 ### 1️⃣ Clone the repository  
 ```bash
 git clone https://github.com/Yogesh-jat/Portfolio.git
+
