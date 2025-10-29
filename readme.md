@@ -11,7 +11,7 @@ It delivers a smooth user experience with beautiful visuals, animations, and res
 ---
 
 ## 🚀 Live Demo  
-🔗 **[View Live Portfolio](https://yogesh-jat.github.io/Porfolio/)**  
+🔗 **[View Live Portfolio](https://yogesh-jat.github.io/Portfolio/)**  
 
 ---
 
@@ -64,5 +64,6 @@ Follow these steps to run and customize this portfolio on your own system 👇
 ### 1️⃣ Clone the repository  
 ```bash
 git clone https://github.com/Yogesh-jat/Portfolio.git
+
 
 
